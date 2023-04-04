@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984132957150",
+    "project_id": "chat-app-habiskerja-b01ae",
+    "storage_bucket": "chat-app-habiskerja-b01ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984132957150:android:e70f32bcc4c9f76deda34f",
+        "android_client_info": {
+          "package_name": "com.habiskerja.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984132957150-6bqndjtcmmee6jmsohe9h8f0fulhul9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8C_cedAftsvOdMmCB_dOtF9S5g5KTSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984132957150-6bqndjtcmmee6jmsohe9h8f0fulhul9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
